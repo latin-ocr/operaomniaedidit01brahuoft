@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit01brahuoft/operaomniaedidit01brahuoft_0219.png"; bbox 0 0 2678 4069; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 1432 2340 1656">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 1432 2340 1656">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 1432 2340 1656; baseline 0.003 -134"><span class='ocrx_word' id='word_1_1' title='bbox 153 1434 342 1523; x_wconf 93' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 372 1432 2340 1656; x_wconf 40' lang='lat' dir='ltr'><strong>DISCIPLIngSAlssfg&#39;HEMATICIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1163 1704 1335 1768">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1163 1704 1335 1768">
+     <span class='ocr_line' id='line_1_2' title="bbox 1163 1704 1335 1768; baseline 0 -13"><span class='ocrx_word' id='word_1_3' title='bbox 1163 1704 1335 1768; x_wconf 89' lang='lat'>(1574)</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

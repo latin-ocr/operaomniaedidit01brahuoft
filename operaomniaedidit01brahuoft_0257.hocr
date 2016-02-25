@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaedidit01brahuoft/operaomniaedidit01brahuoft_0257.png"; bbox 0 0 2678 4069; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 86 434 2311 654">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 86 434 2311 654">
+     <span class='ocr_line' id='line_1_1' title="bbox 86 434 2311 550; baseline 0.004 -10"><span class='ocrx_word' id='word_1_1' title='bbox 86 434 1208 545; x_wconf 89' lang='lat' dir='ltr'>HOROSCOPUS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1276 439 2311 550; x_wconf 90' lang='lat' dir='ltr'>SERENISSIMI</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 136 575 2261 654; baseline 0.004 -8"><span class='ocrx_word' id='word_1_3' title='bbox 136 575 456 648; x_wconf 84' lang='lat' dir='ltr'>REGIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 484 575 1142 649; x_wconf 87' lang='lat' dir='ltr'>CHRISTIANI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1176 579 1538 651; x_wconf 60' lang='lat' dir='ltr'><strong>IVTLAD</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1572 582 2261 654; x_wconf 83' lang='lat' dir='ltr'><strong>MANDATUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 233 681 2166 1181">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 233 681 2166 1181">
+     <span class='ocr_line' id='line_1_3' title="bbox 233 681 2166 760; baseline 0.005 -9"><span class='ocrx_word' id='word_1_7' title='bbox 233 681 936 753; x_wconf 89' lang='lat' dir='ltr'>SERENISSIMI</span> <span class='ocrx_word' id='word_1_8' title='bbox 975 683 1295 756; x_wconf 90' lang='lat' dir='ltr'>REGIS</span> <span class='ocrx_word' id='word_1_9' title='bbox 1326 686 1880 759; x_wconf 89' lang='lat' dir='ltr'><strong>FRIDERICI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1915 688 2063 759; x_wconf 89' lang='lat' dir='ltr'>IIDI</span> <span class='ocrx_word' id='word_1_11' title='bbox 2091 691 2166 760; x_wconf 88' lang='lat' dir='ltr'><strong>A</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 403 787 1998 864; baseline 0.004 -6"><span class='ocrx_word' id='word_1_12' title='bbox 403 787 962 859; x_wconf 91' lang='lat' dir='ltr'><strong>TYCHONE</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 994 788 1373 861; x_wconf 87' lang='lat' dir='ltr'>BRAHE</span> <span class='ocrx_word' id='word_1_14' title='bbox 1406 792 1998 864; x_wconf 90' lang='lat' dir='ltr'><strong>OTTONIDE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 511 893 1889 970; baseline 0.004 -5"><span class='ocrx_word' id='word_1_15' title='bbox 511 893 1287 967; x_wconf 89' lang='lat' dir='ltr'>CONSCRIPTUS</span> <span class='ocrx_word' id='word_1_16' title='bbox 1319 896 1439 968; x_wconf 96' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_17' title='bbox 1473 898 1889 970; x_wconf 89' lang='lat' dir='ltr'>INSULA</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 551 999 1846 1091; baseline 0.005 -21"><span class='ocrx_word' id='word_1_18' title='bbox 551 999 955 1071; x_wconf 90' lang='lat' dir='ltr'>HVENA</span> <span class='ocrx_word' id='word_1_19' title='bbox 978 1000 1544 1075; x_wconf 89' lang='lat' dir='ltr'>CALENDIS</span> <span class='ocrx_word' id='word_1_20' title='bbox 1576 1004 1846 1091; x_wconf 93' lang='lat' dir='ltr'>IULIJ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 922 1107 1473 1181; baseline 0.007 -4"><span class='ocrx_word' id='word_1_21' title='bbox 922 1107 1256 1180; x_wconf 90' lang='lat' dir='ltr'><strong>ANNO</strong></span> <span class='ocrx_word' id='word_1_22' title='bbox 1297 1110 1473 1181; x_wconf 87' lang='grc'>1577</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

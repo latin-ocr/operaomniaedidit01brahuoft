@@ -1,0 +1,47 @@
+XXXII PROLEGOMENA EDITORIS
+
+esset, quomodo multiplicatio numerorum, quos praebet doctrina triangulo-
+rum, evitaretur. Haec autem doctrina saeculis XV et XVI magnos progressus
+fecerat, nec solum si de triangulis solvendis ageretur, sed etiam ut tabulas
+sinuum tangentiumque promptas haberet, operibus PURBACHII REGIO·
+MONTANI COPERNICI aliorum TYCHO niti poterat. Sed ante inventionem
+logarithmorum ita solum multiplicatio evitari poterat, si pro hac additio vel
+subtractio substituere licebat. Hujus rationis, quae prave vocatur »prostha-
+phaeresis« (quamquam hoc verbo, quod a principio idem valet quod aequatio
+centri in theoria planetarum, etiam tune hac sententia utebantur), initium
+fecerat IBN J UNIS Arabs, cujus tamen opera in Europa ignota erant. Nihilo
+magis notum erat, IOANNEM WERNERUM formulas principales hujus ra-
+tionis anno 1514 reperisse; neque enim libellus ejus, quo de hac re agebat,
+publice emissus erat, et quamquam Tycho eum dicit »in libello de motu oc-
+tavae sphaerae aliqualem praebuisse ansam«, nemo tamen scire poterat, quae
+summa esset rationis Werneri. Itaque his, etsi tempore praecedebant, impu-
+tari nequaquam potest, quod anno 1580 haec ratio Hvenae inventa est. Hoc
+LONGOMONTANUS, qui anno 1589 Hvenam venit et post aliquod ternpus
+primus Tychonis adjutor factus est, in Astronomia Danica sua testatur, et
+ipse T YCHO in epistula quadam mense Novembri anni 1580 ad HAGECIUM
+scripta mentionem ejus fecit, et in epistula mense Novembri anni 1599 ad
+HERWARTUM scripta his verbis utitur: »Postea superveniente meque in
+Dania Uraniburgi anno 80 per 4 menses invisente PAULO WITTICHIO bonae
+memoriae‚ excellenti mathematico Vratislaviensi‚ qui talibus etiam (a me
+Witebergae, dum istic olim transieram, admonitus) interea insudaverat, cum
+illo communicata opera, ea ipsa luculentiora reddidi et semper exinde in usu
+habui, quo studiosis meis observationes nostras in numeros redigentibus tem-
+poris et laboris dispendium minueretur.«
+Formulae autem a Wittichio inventae hae erant:
+cos A cos Bzfflcos (A —- B) ab cos (A ΔΓ Β)]
+sin A sin B -- ὲ [cos (A — B) -— cos (A ÷ B)].
+
+Exstant hae in breviario illo, cui nomen est »Tr1‘angulorum planorum et
+sphaericorum praxis arithmeti0a«‚ quod eo consilio Tycho composuit (vel
+componendum curavit), ut adjutoribus suis in locis planetarum ex observa-
+tionibus supputandis utile esset. Quod solum exstat exemplum hujus libelli,
+anno 1591 signatum est, neque tamen dubitari potest, quin multo ante corn-
+positus sit, cum in commentatione quadam de Marte, quae anno 1585 vel 1586
+scripta est, mentio ejus fiat. Ex hoc autem breviario rationem illam post an-
+num 1580 Hvenae ulterius progressam non esse apparet. Ceterum Wittichius
+aliquot annis, postquam Hvenam adierat, inventionem suam cum JUSTO
+BUERGIO, mathematico praeclaro, Landgravii adjutore, communicavit, qui
+
+illam rationem aliquantum excoluit. Hujus denique inventis niti videntur illa
+praecepta, quae a, 1599 a MELCHIORE JOESTELIO Tycho accepit.
+
