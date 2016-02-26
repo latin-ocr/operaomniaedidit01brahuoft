@@ -1,0 +1,56 @@
+286 TRIANGULORUM PRAXIS ARITHMETICA
+
+ΙΙΙ. Si reliquum latus Recto adiacens voles inquirere, numerum late-
+ris dati per finum complementi Anguli sibi oppofiti multiplica, 8( divide
+per eiusdem Anguli finum: exit latus reliquum, quod quaerebatur. ΙΙ
+
+DOGMA IV PLANORUM. 5r
+
+Trianguli non Rec‘tanguli, datis duobus lateribus cum Angulo 5
+comprehensa dantur Anguli, ἄν reliquum IatuS.
+
+I. Si triangulum habuerit duo aequalia latera, Angulus datus dimi-
+diatuS‚ ablatus a 90, ostendit reliquos Angulos; Latus vero tertium
+habebiS‚ fi multiplicaveris latus per dimidium Anguli dati, 8( dividas ἢ
+per totum: exit dimidium reliqui lateriS‚ quod duplica. 10
+
+ΙΙ. Sivero habueritTriangulum inaequalia latera, &Angulus compre-
+hensus fuerit acutuS‚ multiplica maius latus datum, 8( divide per totum:
+exit inventum ΙΙ, a quo aufer minus latuS‚ 8( relinquitur inventum III.
+JamducinventumIintotum,&divideperinventumIII:productuminCa- ·1·
+none foecundo dat complementum Anguli‚ qui lateri maiori opponitur. 1⁵
+
+Pro latere reliquo, multiplica inventum I per ΙΙ totum, 8( divide per 5v
+finum Anguli iam inventi, oppofiti lateri maiori: exit latus reliquum,
+quod quaerebatur.
+
+At fi Angulus obtusus fuerit, duc linum complementi obtufi in maius
+latuS‚ 8( divide per totum: exit inventum Ι. Deinde duc finum obtufi in 20
+maius LatuS, 8( divide per totum: exit inventum ΙΙ. Postea adde I in-
+ventum dato minori lateri, 8( habebis inventum ΙΙΙ. J am duc inventum
+II in totum, 8( divide per inventum 111: exit numerus Anguli, qui adiacet ’
+Lateri minori, in Tabula foecunda inquirendi.
+
+Pro reliquo latere multiplica inventum II per totum, 8( divide per 25
+finum Anguli modo inventi, qui adiacet Lateri minori: exit latus ΙΙΙ,
+quod quaerebatur.
+
+NB. Est complementum ad 180, ubi Angulus is est obtusus. Comple-
+mentum obtufi habeS, subtrahendo ab eo 90. Sinum vero obtufi habes
+subtrahendoueum a 180, 8( refidui finum accipiendO, prioris complemen- 30
+tum ad 901³.
+
+COMPENDIOSIOR SOLUTIO HUIUS DOGMATIS ABSQUE θ’
+DEMISSA PERPENDICULARI.
+
+Ι. Dati Anguli (acuti vel obtuli) complementum a semicircu10, id est 5·
+180, dimidia, & huius tangentem ex Canone Tangentium accipe. 3⁵
+II. Deinde adde minus latus datum lateri maiori dat0, 8( aggregatum
+
+dimidia, quod erit inventum Ι.
+ΙΙΙ. Ab hoc invento primo subtrahe minus latus denu0‚ 8( refiduum
+erit inventurn ΙΙ.
+IV. Tertium autem inventum erit Tangens Anguh, ex complemento 40
+dati Anguli prius dimidiato.
+Πρᾶξις.
+

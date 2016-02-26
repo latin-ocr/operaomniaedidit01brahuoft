@@ -1,0 +1,57 @@
+ANNOTATIONES EDITORIS 319
+
+Trigonometriae sive de dimensione triangulorum libris qumque (Aug. Vin-
+
+delic. 1608) p. 160 sq. primum in lucem prolatum est, additis verbis »Byrgiano
+more«.¹
+
+Unde haec duo praecepta insignia acceperit T ycho‚ qui utilitatem eorum
+tanto aestimabat, ut ad alium observatorem diligentem, Davidem Fabricium,
+exemplum eorum transscriptum simul cum calculis, quibus usus eorum de-
+monstraretur, statim mitteret, ipse in epistula d. 16 m. Novembris a. 1599 ad
+Herwartum de Hohenburg data indicat, curn illa refert, quae ipse cumWitti—
+chio hac in re olim profecerat: »CumWittebergae superiori hyeme aliquandiu
+haererem et typographicos labores non ex animi sententia succedere animad-
+verterem, resumpsi hanc operam in manus, et adhibito istic praestanti ma-
+thematum professore Melchiore J oestelio‚ ea omnia, quae tam sphaerica quam
+plana triangula respiciunt, quaecunque in usum cadunt astronomicum et
+geographicum per solas prosthaphaereses dinumerandas compendiose in or-
+dinem redegi. Effeci‚ ita ut nihil fere ulterius in his nunc desiderari queat,
+quae etiam suo tempore in communem horum studiorum utilitatem et pro—
+motionem publici juris fieri procurabo.«
+
+Cum praeceptum illud, quod cos a invenire docet, Buergio debeatur, non
+hoc solum, sed etiarn quomodo (in priore problemate) cos A sine divisione
+
+sin x
+
+cosec y
+videtur. Praebet enim codex Vindobonensis lat. 10686⁶⁷‚ quae pars est ingentis
+chartarum molis, quae nobis inter hanc operam saepe utilis fuit, Melchioris
+J oestelii Logisticam prosthaphaeresin astronomicam, quam subsequuntur
+eJ‘usdem TrIangula astronomIca tum sphaerica tum rectilinea. In tractatu
+posteriore agit J oestelius de problematis sedecim triangulorum, quorum VIII
+et IX iisdem fere verbis in Tychonis codice descripta sunt (supra pp. 297—299);
+minus illa quidem congruunt, quae nos dedimus pp. 300—301‚ nisi quod poste-
+rior pars p. 301 iisdem fere verbis in priore J oestilii tractatu (regula ΙΙ) 111νο-
+nitur; sed a J oestelio Tychonem haec doctum esse utique manifestum est. Ce-
+terum animadvertendum est, compendia S. R. (i. e. sinus rectus), S.T. (i. e. sinus
+totus), T. (i. e. tangens) etin 1100 01 111 Tychonis codice inveniri, cum illo tem-
+pore plane inusitatum fuerit in libris mathematicis talibus compendiis uti;
+scilicet 1100 quoque Joestilii inventum esse videtur. Addendum vero est, ea-
+dem praecepta, addito J oestilii nomine, etiam in folio quodam inveniri, quod
+codici Ioannis Praetorii Monacensi lat. 24101 (de quo agit Bjoernbo 1. 0. p. 170)
+appositum est. Ille autem Praetorius, quod nos docuit v. d. H. G. Zeuthen‚
+ibidem alia quoque praecepta praebet in tabula simili collocata ad eadem pro-
+blemata sphaericorum per prosthaphaeresin solvenda; haec vero a Wernero
+inventa 01 aWolfio et Schulero in breviorem formam redacta esse traduntur.
+
+inveniendus esset (cos A =
+
+ 
+
+Ξ sin x sin y), a J oestelio Tycho didicisse
+
+¹ Apud Pitiscum hoc inveniri primum ostendit Braunmuehl (Abii. z. Gescb. d. Mathematik
+IX p. 24).
+

@@ -1,0 +1,37 @@
+292 TRIANGULORUM PRAXIS ARITHMETICA
+
+Duorum laterum, angulum quaefitum ambientium, minus latuS, 8(
+supplementum maioris invicem adde, 8( aufer, ac utriusque refidui finus
+adde, fi supplementum maioris lateris excedit latus minus; alias aufer;
+producti dimidium est inventum Ι, quod ablatum ab aggregato primo
+dat inventum II. Tertium inventum est differentia inventi primi 8( finus 5
+complementi lateris reliqui oppositi Angulo quaefito. Deinde multi-
+plica inventum III per totum, 8( divide per inventum II. Exit finus com-
+plementi Anguli quaefiti‚ fi acutus fuerit; fin obtusuS, Arcus inventus
+ipfius Anguli adiungendus est Quadranti (Est autem hic angulus acu-
+tuS‚ quando inventum I minus est finu complementi lateris tertij op· 1⁰
+politi, obtusus ver0, quando eodem maius est). r
+
+CASUS VARIJ. ·
+
+Ι. Ν. Si latera ambientia 90 excesserint‚ sume complementum ΙΙ a polo 20¹
+Australi.
+
+II. Quando vero maius latus excesserit Quadrantem, operandum est
+per excessum eius de 90, 8( habebis inventum ΙΙΙ, addendo inventum I 15
+ad finum complementi lateris subtendentis Angulum quaefitum, non
+subtrahendO, ut in Dogmate extat3 alias iuxta Dogma. Et fi aggregatum
+primum excesserit quadrantem, habebis aggregatum verum, subtra-
+hendo a 180.
+
+ΙΙΙ. Si unum laterum ambientium 90ta excesserit, latus vero oppofi- 20
+tum 90ta praecise, adde invento primo integrum finum, 8( divide per in- ,
+ventum II. Provenit complementum Anguli quaefiti. Aliter:
+
+IV. Si unum laterum ambientium quaefitum Angulum cum oppofito
+
+Eidenff excedat Quadrantem oppositi, subtrahendo inventum Ι ab huius
+nu. 25
+
+Demonstratio
+

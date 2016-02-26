@@ -1,0 +1,76 @@
+5
+
+÷
+
+13ν
+
+14=
+
+15
+
+20
+
+25
+
+15r
+
+30
+
+35
+
+16=
+
+40
+
+TRIANGULORUM PRAXIS ARITHMETICA 289
+
+maior latere adiacente, refidui cape dimidium pro finu complementi
+
+anguli quaefiti‚ vel finus lateris oppofiti angulo dat0‚ quando angulus
+est maior latere adiacente.
+
+NB. Habet locum, quando latus adiacens angulo redto fuerit datum:
+8( notandum, quod, quam diu latus datum est minus Angulo dat0, de-
+bent ambo addi, & auferri, & refiduorum finus coniungi, 8( dimidiari
+pro finu complementi anguli quaefiti; quando vero latus est maius An-
+gu10‚ potes uti, prout est in exemplo adscript0‚ per subtrad'tionem fi-
+nuum‚ accipiendo ipsa data, non complementum maioris, Si vero utra-
+que data Quadrantem excesserint, tunc operare per ΙΙ complementum
+utriusque dati, subtrahendo invicem finus aggregati, 8( differentiae‚ quo-
+rum 8( dimidiando est finus complementj Anguli quaefiti. ΙΙ
+
+DOGMA IV SPHAERICORUM.
+
+⁸ Trianguli Redtanguli, clato uno angulo, ὁὶ* quovis latere, reliqua
+1n{e83112{us datum Angulo non redto dato opponatur, multiplica finum
+ipfius lateris per totum, 8( per finum Anguli dati divide: exit finus la-
+teris rectum subtendentiS. Reliquum latus dabit Dogma I, Angulos vero
+Βῗῗπὲέἰι {itus datum Red’to opponitur Angu10‚ finum eius per finum
+anguli dati multiplica, 8( ρῐοᾶιιᾶὶωᾙ divide per totum: exit finus lateris
+oppofitiAngulo dato, Reliqua inquire per primum 8( secundum dogma,
+UtlSIiralriZulus Imaus, & angulus datus lateri dato infideant, operare
+per antecedentem pro reliquo Angulo: per sequentem vero pro reli-
+quis lateribus, ΙΙ
+
+DOGMA V SPHAERICORUM.
+
+Trianguli RedtanguIL datis duobus reliquis AnguIiS‚ latus quod-
+cunque invenire.
+
+Multiplica finum complementi Anguli non redii, subtendentis five
+oppofifi, lateri quaefito per totum, 8( ριόᾶιιέὶυιῃ divide per finum reli-
+qui Anguli non ree’ti: exit finus complementi lateris quaefiti.
+
+Pro reliquis autem lateribus multiplica finum lateris modo inventi
+per finum Anguli, respicientis reliquum latus quaefitum‚ five redtus
+fueritis angulus five non, produe'tum divide per finum Anguli, quem
+subtendit latus nuper inventum: exibit finus lateris inquirendi. Ter-
+tium latus dabit I dogma. ΙΙ
+
+DOGMA VI SPHAERICORUM.
+
+Trianguli non Redtanguli, datis duobus circa datum angulum
+
+lateribus reliquum latus invenire. Α M·
+37 mus
+

@@ -1,0 +1,66 @@
+17r
+
+18r
+
+18ν
+
+19
+
+TRIANGULORUM PRAXIS ARITHMETICA 291
+
+DOGMA VII SPHAERICORUM.
+
+Trianguli non Recianguli, datis duobus Angulis circa datum
+latus Angulznn reliquum in venire.
+
+Angulum minorem, 8( complementum maioris invicem adde 8( au-
+sser, refidui utriusque finus adde, fi complementum maioris Anguli
+superet Angulum minorem, vel aufer, fi eo minus fuerit, 8( habebis
+inventum Ι, quod aufer a primo aggregato: habebis inventum II, per
+quod multiplica finum complementi lateris dati, 8( divide per totum:
+exit inventum III, quod adde ad inventum I, fi latus datum minus qua-
+drante fuerit; vel subtrahe ab eodem, fi maius extiterit: habes finum
+complementi Anguli quaefiti. Fuit itaque operatio fimilis priori. ΙΙ
+
+DOGMA VIII SPHAERICORUM.
+
+Trianguli >non Redi-anguli, datis duobus Angulis cum latere al-
+teri eorum opposito, reliqua latera, ἄν Angulum invenire.
+
+Hic opus erit resolvere Triangulum in duos RectanguIOS, ducta per-
+pendiculari ab Angulo ignotO, five cadat extra, five intra Triangulum,
+8( deinde operari per III 8( IV. Exempli gratia. Sit Tri· Α
+angulus ABC, cuius Anguli ad A 8( Β fint noti, cum χχ
+latere AC. Volo inquirere latus BA. Duco itaque per· f
+pendicularem ab Angulo C ignoto in BA, quae fit CD. (7) .„ N
+Trianguli itaque CAD reclanguli datur Angulus ad
+A cum latere adiacente AC. Ergo per Tertium dabi-
+tur AD. ,s
+
+Ι. Operatio] Minus datum, 8( complementum ma-
+ioris invicem adde, 8( aufer, utriusque refidui finus invicem subtractos
+dimidia, 8( habebis finum complementi lateris AD.
+
+ΙΙ. Deinde per I inquire DC. ΙΙ
+
+ΙΙΙ. Demum in altero Triangulo Rectangulo BDC pro latere BC op-
+pofito Angulo rec'tO, multiplica finum lateris DC per totum, 8( divide
+per finum Anguli dati ad B: exit finus lateris BC.
+
+IV. Pro latere BD operare per I, 8( minus latus DC, 8( supplementum
+maioris BC, invicem adde, 8( aufer; finus utriusque adde, 8( dimidia;
+habesque finum complementi lateris DB, ideoque ipsum BD.
+
+Latus itaque DB adde ad AD prius inventum, 8( habebis totum BA
+cognitum. Pro angulo vero ACB per III, ut supra, inquire Angulum
+DCB, quem adde angulo ACD prius invent0‚ 8( constabit totus An-
+gulus ACB, qui quaerebatur. Similis est operati0, cum cadit perpendi-
+cularis extra Triangulum. ΙΙ
+
+DOGMA IX SPHAERICORUM.
+
+Trianguli non Recianguss datis tribus lateribus, Angulum quem-
+
+vis invenire.
+37* ’ Duorum
+

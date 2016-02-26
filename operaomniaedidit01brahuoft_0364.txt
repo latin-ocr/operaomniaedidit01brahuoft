@@ -1,0 +1,51 @@
+288 TRIANGULORUM PRAXIS ARITHMETICA
+
+tum, 8( divide per latus medium, scilicet proxime maius minimo: exit
+finus complementi Anguli, qui minimo lateri opponitur. Pro reliquo
+Angu10‚ accipe refidui dimidium prius datum (per inventum semicom-
+pletum secundum) et latus minimum, tanquam oppofitum Angulo
+(quod subintelligitur) rectO, 8( per secundam huius dabitur Angulus 5
+oppofitus lateri mediocri, ergo 8( tertius notus erit. ΙΙ
+
+DOGMA VII PLANORUM. 9ν
+
+TrianguIi, tribus cognitis Angulis, latera singula invenire.
+Anguli cuiusvis finum duplica, 8( proveniet quantitas lateris oppositi
+ἓξὲξ ἓῗξὲῌὴ), 111 talibus partibuS‚ qualium semidiameter Circuli est 10
+
+SEQUITUR DE TRIANGULIS 10r
+
+SPHAERICIS COMPENDIUM CONTI-
+NENS DOGMATA NOVEM. ΙΙ
+
+DOGMA I SPHAERICORUM. 11r
+
+Trianguli Rectanguli, datis duobus lateribus, tertium Recto op-
+positum invenire.
+
+Operatio] Minus latuS‚ 8( complementum maioris invicem adde, 8(
+aufer, utriusque refidui finum adde, fi complementum maioris lateris e
+maius fuerit minore, alias subtrahe, 8( differentiae cape dimidium, 8( 2⁰
+habebis finum complementi lateris reliqui inquirendi, ΙΙ 1
+
+DOGMA II SPHAERICORUM. 12r
+
+TrianguIi Rectanguli, datis duobus lateribus, angulum quem-
+cunque invenire.
+
+Si latus rectum subtendens Angulum cum latere, quod opponitur 25
+Angulo inquirendO, data non fuerint, latuS‚ quod ex his ignoratur, pri-
+mum, per antecedentem operationem inquirendum erit, 8( hinc pro-
+cedendum in hunc modum. Multiplica finum lateris oppofiti angulo
+quaefito per finum totum, 8( productum divide per finum lateriS, rectum
+angulum subtendentis: provenit finus Anguli inquirendi, cuius arcus 30
+illius Anguli quantitatem metitur. ΙΙ
+
+DOGMA III SPHAERICORUM. 13ΙΓ
+
+Trianguli Rectanguli dato uno Angulo, cum Latere adiacente,
+reliquum Angulum, lateri dato oppositum invenire.
+Operatio] Minus datum, 8( complementum maioris invicem adde, 35
+8( aufer, utriusque refidui finus subtrahe, vel adde, fi Angulus fuerit
+maior
+

@@ -1,0 +1,52 @@
+318 ANNOTATIONES EDITORIS
+
+Tychoni et Wittichio ignotum fuisse, inde patet, quod prosthaphaeresi hoc
+loco utuntur, cum sine ea rem expedire Werner potuisset (cf. Bjoernbo l. c.
+. 169 .
+p ad I}- 292,11] Hoc theorema summi momenti erat, cum, quoties differentia
+ascensionum rectarum stellae et planetae supputanda erat, quotidie in usu
+fuisse existimandum sit. Eadem formula adhibetur hic atque in dogmate VI:
+cos A z cos {lin—§Zisnbccos C, ubi numerator et denominator per prosthaphae-
+resin solvuntur.
+ad p. 293„ ] Eadem plane figura invenitur in Ursi Fundamento astronomico
+
+fol. ZOV.
+
+ 
+
+AD PROBLEMATA DEPTI'JfflsslINISGULIS SPHAERICIS ET
+
+Hoc opusculum in eo volumine invenitur, quod continet ipsas observationes
+annorum 1598 et 1599; ac post observationes mensis januarii anni 1599 locum
+tenet3 quamquam folia, quibus scriptum est, postea insuta esse apparet. Quat-
+tuor paginas explent ipsa praecepta supputandi; sequuntur paginae una et
+viginti, in quibus secundum nova haec praecepta nonnullorum J ovis locorum
+ratio initur, et de locis inventis quaedam addit Tycho.
+
+Satis memorabilia sunt haec praecepta et ab iis, quae praebet Triangulorum
+Prax1s, multum discrepant. Supra ostendimus, Tychonem coactum esse, ut
+in dogmate VI sphaericorum multiplicationem, in IX vero divisionem retine-
+ret; quod jam evitare didicit. In priore problemate, ubi datis lateribus a b c
+anguli Α Β C inveniendi sunt, primum quaeritur
+
+ὲ [sin (90 — b ψ 0) ὴὲ sin (90 — b — 0)] z inventum 13 turn
+sin (90 — a) — I :inventum II.
+Deinde ponitur II z sin x, unde invenitur x; posito vero
+sin (90—b†c)—1:} [sin (90—b÷c)—sin (90—b—c)]:cosec y,
+inde datur y. Denique
+sin (90— A)=sinxsin y Ξ [sin (90—x ψ y) κ sin (90 - x— y)]‚
+ubi divisio, quam praebuerat dogma IX, nulla invenitur.
+
+In altero autem problemate, ubi datis lateribus b c et angulo A tertium
+
+latus a inveniendum est, primum quaeritur
+ὲ [sin (90 — b ÷ c) —- sin (90 — b — c)] = inventum 1; tum
+⁷ ὲ [sin (90 —- b ψ 0) ÷ sin (90 - b — c)] z sin x, unde invenitur x3 deinde
+ὲ [sin (90 — Α ΔΓ 90 —— x) 4- sin (90 — A — [90 — x])] z inventum II, unde
+Ι ÷1122 sin (90 - a),
+ubi multiplicatio, quam praebuerat dogma VI, nulla invenitur.
+
+Quod in altero problemate angulus auxiliaris x adhibetur, hoc illud est,
+
+quod (ut supra indicavimus) invenerat Buergius‚ et in Bartholomaei Pitisci
+

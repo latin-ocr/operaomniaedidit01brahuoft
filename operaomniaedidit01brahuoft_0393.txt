@@ -1,0 +1,56 @@
+ANNOTATIONES EDITORIS 317
+
+Haud ab re erit hoc loco pauca addere de alio libro manu scripto mathe-
+matico, qui Pragae asservatur, quem Tychonis esse affirmatum est. Libellus
+est foliorum sex in 2⁰, quem a. 1903 forma aliquanto minore lucis ope ex-
+pressum edidit Studnicka hoc addito titulo: »Brevissimum planimetriae com-
+pendium sua manu exaravit Tycho Brahe«. At manus non est Tyehonis,
+cujus etiam manui haud sane similis est, neque ullum adest indicium, quod
+in hujus potestate libellum umquam fuisse ostendat. Quae eo continentur,
+sumpta sunt e Procli commentariis in primum librum Elementorum Euclidis
+(Basileae 1533), quod nos docuit I. L. Heiberg, professor Hauniensis. Ceterum
+media interrumpunt annotationes quaedam et delineationes horologiorum
+solarium, quae jam factae esse videntur, cum illis excerptis Proclianis partes
+vacuae paginarum completae sint.
+
+ad p. 286‚9] Lapsus hic est calami; pro »dimidium« scribi debuit »sinum
+dimidii«.
+
+ad p. 286‚12—14] Hic locus valde corruptus est. Scribi debuit: »multiplica
+maius latus datum per sinum Anguli dati, et divide per totum: exit inventum
+1; multiplica maius latus per sinum complementi Anguli dati, et divide per
+totum: exit inventum ΙΙ, quod aufer a latere minore, 8ι relinquitur inventum
+III. J am duc inventum III in totum, 81 divide per inventum I: productum in
+Canone foecundo. . .« cet.
+
+ad p. 286‚35] Hic vocabulo »tangentis« primum Tycho utitur. Primus induxit
+Thomas Fincke in Geometria rotundi (Basileae 1583) simul cum »secantis«
+vocabulo (pp. 73 et 76). Ceterum ex hujus libri p. 292 simpliciorem hujus pro-
+blematis solutionem Tycho discere potuit.
+
+ad p. 287‚14] Hoc problema solutum non est, et reliqua pagina eaque, quae
+sequitur, vacuae sunt.
+
+ad p. 288‚21] Hic primum adhibetur prosthaphaeresis‚ cum pro
+
+cos c Ξ cos a cos b ponitur cos c z ὲ [cos (a — b) ἢ- cos (a 4- b)].
+
+ad p. 2828 ] Hoc »exemplum adscriptum« non invenitur in codice, pagina
+vero, quae sequitur, paene tota vacua est.
+
+ad p. 290,9 ] Hic adhibetur prosthaphaeresis, cum
+
+cos a=cosbcosc³rsinb sinccosA
+={[cos (b—c)†cos (b ÷c)]†{[cos (b—c)—cos (b÷c)] cos A.
+Non contigit igitur, ut ultima multiplicatio cos A evitaretur, quam adhibito
+angulo auxiliari evitavit Buergius‚ ut ex libris manu scriptis observationum
+ejus patet, quas Cassellis instituit (cf. Rud. Wolf, Astronom. Mittheilungen
+XXXII p. 61).
+
+ad p. 290‚13] Postea additum est voc. »multiplicato«, ante quod etiam »sed«
+additum esse videtur3 sed post illud quaedam excidisse videntur, aut »ut prius«
+aut »per sinum complementi anguli dati et diviso per totum«.
+
+ad p. 291‚11] Haec solutio falsa est, curn dogma VI ad triangulum polare
+adhibere Tycho satis habeat, lateribus et angulis commutatis. Werneri opus
+

@@ -1,0 +1,65 @@
+20
+
+25
+
+30
+
+35
+
+ΞΟ tum secundum multiplica per to-
+
+TRIANGULORUM PRAXIS ARITHMETICA 287
+
+Πρᾶξις.
+
+Duc iam inventum II in inventum ΙΙΙ, et divide per inventum 1: exit
+Tangens Anguli differentiae Angulorum, quibus data latera subtende-
+bantur. Itaque fi hanc differentiam in Canone Tangentium inventam
+subtraxeris ab Angulo prius per complementum dimidiatum invento,
+
+v pa-sstescet AnguluS, cui minus datorum laterum subtendebatur. Hanc
+
+rursus fi addideris eidem Angulo ex complemento inventO, manifesta—
+tur angulus a maiori latere subtensO. Vel etiam, datis duobus Angulis
+
+in Triangulis planis, tertius per eorum complementum ad semicircu—
+lum notus existit. ΙΙ
+
+DOGMA V PLANORUM.
+
+Datis Trianguli non Rec‘tanguli duobus Iateribus cum Angulo
+
+oppofitO, vel duobus Angulis cum Latere, vel subtenso, vel adia-
+cente, reliqua hinc in venire. ΙΙ
+
+DOGMA VI PLANORUM.
+
+Α Trianguli non Recstanguli, datis tribus lateribus, dantur omnes
+nguli.
+
+I. ISOPLEURUM. In Triangulo trium AEqualium laterum, quod Iso-
+PLEURUM vocant, Anguli 60 partes obtinent.
+
+II. AEQUICRURIUM. In Triangulo duorum aequalium laterum, quod
+AEQUICRURIUM vocant, dimidiam basin multiplica per totum, 8( divide
+per alterum aequalium laterum: exit finus Anguli dimidij‚ a duobus ae-
+qualibus lateribus comprehenfi.
+Quare, cum reliqui fint aequaleS‚
+huius complementum ad 180, di-
+midiatam utriusque reliqui An-
+guli quantitatem indicabit.
+
+II. SCALENUM. In Triangulo
+trium inaequalium laterum: ac-
+cipe latus minUS, 8( proxime ma-
+iuS‚ illa adde invicem, 8( subtra-
+he, ambo refidua invicem mul-
+tiplica, 8( produdtum divide per
+maximum latus: habes inven-
+tum Ι. Hoc ab eodem maximo
+
+dia, idque invento I adde, 8( ha-
+be-ssbis inventum ΙΙ. Hoc inven-
+
+ 
+
